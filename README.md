@@ -1,2 +1,2 @@
 # dmilyasov_microservices
-dmilyasov microservices repository
+microservices repository
