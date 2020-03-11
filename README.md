@@ -7,3 +7,4 @@ microservices repository
 #docker run --rm --pid host -ti tehbilly/htop // запуск с pid host системы покажет все процессы хост-системы
 
 # При помощи dockerfile создан свой образ reddit и загружен на docker hub
+# hw 15 completed
