@@ -1,0 +1,20 @@
+[
+  {
+    "nodeName": "worker-0",
+    "pods": [
+      "busybox",
+      "mongo-deployment-8446b55f5b-5ng5f",
+      "post-deployment-68989f9544-96ljc",
+      "coredns-5fb99965-89gzv"
+    ]
+  },
+  {
+    "nodeName": "worker-1",
+    "pods": [
+      "comment-deployment-6455788f96-znfbr",
+      "nginx-554b9c67f9-kscpk",
+      "ui-deployment-6ffcb649d4-fxrp4",
+      "coredns-5fb99965-4s9r9"
+    ]
+  }
+]
