@@ -1,0 +1,23 @@
+comment:
+  image:
+    repository: dmilyasov/comment
+    tag: latest
+  service:
+    externalPort: 9292
+
+post:
+  image:
+    repository: dmilyasov/post
+    tag: latest
+  service:
+    externalPort: 5000
+
+ui:
+  image:
+    repository: dmilyasov/ui
+    tag: latest
+  service:
+    externalPort: 9292
+
+mongodb:
+  usePassword: false
